@@ -1,0 +1,1 @@
+/sbin/c++ CMakeFiles/app.dir/main.cpp.o -o /home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/bin/app 
