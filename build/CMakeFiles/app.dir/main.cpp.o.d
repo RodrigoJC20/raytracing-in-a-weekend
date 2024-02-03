@@ -201,6 +201,7 @@ CMakeFiles/app.dir/main.cpp.o: \
  /home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/interval.h \
  /home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/ray.h \
  /home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/vec3.h \
+ /home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/camera.h \
  /home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/color.h \
  /home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/hittable.h \
  /home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/hittable_list.h \
