@@ -1,3 +1,0 @@
-/home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/build/CMakeFiles/app.dir
-/home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/build/CMakeFiles/edit_cache.dir
-/home/rodrigo/dev/cpp/raytracing/raytracer_in_one_weekend/build/CMakeFiles/rebuild_cache.dir
